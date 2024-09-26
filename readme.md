@@ -41,12 +41,6 @@ GEMINI_KEY = "<your_gemini_key>"
 SERP_KEY = "<your_serper_key>"
 ```
 
-Alternatively, you can set these as environment variables:
-```bash
-export GEMINI_KEY="<your_gemini_key>"
-export SERP_KEY="<your_serper_key>"
-```
-
 #### 4. Run FastAPI Backend
 Start the FastAPI server for handling negotiation requests:
 ```bash
