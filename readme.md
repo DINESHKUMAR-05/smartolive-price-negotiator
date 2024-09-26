@@ -26,7 +26,7 @@ To run the project, follow the steps below:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/smartolive-price-negotiator.git
+git clone https://github.com/DINESHKUMAR-05/smartolive-price-negotiator.git
 cd smartolive-price-negotiator
 ```
 
