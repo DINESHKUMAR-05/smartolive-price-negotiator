@@ -1,5 +1,3 @@
-## README for SmartOlive Price Negotiator
-
 ### Project Overview
 
 This project is a web-based AI price negotiation system named **SmartOlive Price Negotiator**. It allows users to interact with a custom-built AI agent that assists in negotiating prices for AI-driven home appliances sold by the company 'SmartOlive'. The system is built using **Streamlit** for the frontend and **FastAPI** for the backend. The negotiation logic is handled by the Gemini language model integrated with the LangChain framework.
