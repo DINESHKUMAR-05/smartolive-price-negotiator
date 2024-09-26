@@ -39,7 +39,7 @@ if prompt := st.chat_input("Chat with our AI Price Negotiator"):
 st.sidebar.title("SmartOlive Products")
 st.sidebar.markdown("""
 ### AI Driven Vacuum Cleaner
-- Price: $8000
+- Price: $800
 - Power Intake: 100 watts
 - Charging time: 30 minutes
 - Usage: 4 hours/charge
